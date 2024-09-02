@@ -1,0 +1,101 @@
+
+.main{
+    background-color: rgb(116,49,250) !important;
+}
+.ok ul  {
+    margin-left: 90px !important;
+   
+}
+.ok a{
+    color: white !important;
+}
+.boot img{
+    width: 50px;
+    position: relative;
+    left: 100px;
+   
+}
+.boot img:hover{
+    rotate: -10deg;
+}
+.srch{
+    margin-right: 385px !important;
+   background-color:  rgb(116,49,250) !important;
+   padding-left: 30px !important;
+   
+}
+.srch:hover{
+    box-shadow: 2px 3px 4px yellow ,-2px -3px 4px yellow;
+    
+}
+i{
+  position: absolute !important;
+  left: 700px !important;
+  top: 26px;
+  color: white;
+}
+.cat img{
+    width: 25px;
+
+}
+.cat{
+    position: relative;
+    left: -110px;
+    top: 7px;
+}
+.bird img{
+    width: 68px;
+}
+.bird{
+    position: relative;
+    left: -125px;
+    top: 7px;
+}
+.round img{
+    width: 25px;
+}
+.round{
+    position: relative;
+    left: -160px;
+    top: 7px;
+}
+.line{
+    width: 0.5px;
+    height: 33px;
+    border: 1px solid rgb(165, 151, 151);
+    position: relative;
+    left: -130px;
+    top: 8px;
+}
+.btn{
+    position: relative;
+    left: -70px;
+    top: 4px;
+    background-color: transparent;
+    color: rgb(230, 227, 238);
+    border-style: none;
+}
+.da{
+    margin-left: -140px;
+}
+.line2{
+    width: 0.5px;
+    height: 33px;
+    border: 1px solid rgb(165, 151, 151);
+    position: relative;
+    left: -140px;
+    top: 8px;
+}
+.starmoon img{
+   width: 30px;
+}
+.starmoon{
+    position: relative;
+    left: -135px;
+    top: 7px;
+}
+.vtn{
+    position: relative;
+    left: -80px;
+}
+
